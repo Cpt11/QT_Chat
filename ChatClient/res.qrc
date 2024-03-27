@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ap.ico</file>
+        <file>ap.rc</file>
+    </qresource>
+</RCC>
